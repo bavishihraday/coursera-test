@@ -1,0 +1,96 @@
+body
+{
+	background-color: black;
+	font-size: 20px;
+}
+#bname
+{
+	font-size:200%;
+	letter-spacing: 2px;
+
+}
+#our
+{
+	color : darkgreen ;
+	margin-top: 30px;
+}
+
+#navid
+{
+  border-bottom: 3px solid white;	
+}
+
+#heads #navbarToggleExternalContent
+{
+	background-color: grey;
+	border-bottom: 1px solid white;
+}
+ .butt a{
+	color:white;
+}
+.container-fluid .row #box1
+{
+	background-color: white;
+	border-radius: 7px;
+	margin-top: 100px;
+	width:80%;
+
+}
+.container-fluid .row #box2
+{
+	background-color: white;
+	border-radius: 7px;
+	margin-top: 100px ;
+	width:80%;
+
+}
+.container-fluid .row #box3
+{
+	background-color: white;
+	border-radius: 7px;
+	margin-top:100px;
+	width:80%;
+}
+#head1
+{
+    width: 60%;
+    position: absolute;
+    top:0;
+    background: grey;
+    height: 50px;
+    text-align: center;
+    opacity: 0.7;
+    right: 0;
+    border-radius: 7px;
+    color: white;
+}
+#head2
+{
+    width: 60%;
+    position: absolute;
+    top:0;
+    background: grey;
+    height: 50px;
+    text-align: center;
+    opacity: 0.7;
+    right: 0;
+    border-radius: 7px;
+    color: white;
+}
+#head3
+{   color: white;
+    width: 60%;
+    position: absolute;
+    top:0;
+    background: grey;
+    height: 50px;
+    text-align: center;
+    opacity: 0.7;
+    right: 0;
+    border-radius: 7px;
+}
+.container-fluid .col-md-3 .text_main
+{
+	margin-top: 70px;
+	height: 1000px;
+}
